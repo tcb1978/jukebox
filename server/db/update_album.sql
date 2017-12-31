@@ -1,0 +1,1 @@
+UPDATE albums SET artis_name = $2 WHERE id = $1;
